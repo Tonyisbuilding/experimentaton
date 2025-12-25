@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Output files
+*.csv
+*.json
+test_*.json
+
+# Playwright
+.pw-user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Playwright browser profiles
+.playwright-profile/
+output/
